@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RAW.Photo.Extractor": {
+      "commandName": "Project",
+      "commandLineArgs": " --NonRawPhotosDirectory \"C:\\Users\\anslo\\Desktop\\final\" --RootDirectory \"C:\\Users\\anslo\\Desktop\\all\" --OutputDirectory \"C:\\Users\\anslo\\Desktop\\output\" "
+    }
+  }
+}

@@ -143,7 +143,7 @@ static int DisplayHelp(ParserResult<CommandLineOptions> result, IEnumerable<Erro
     {
         h.AdditionalNewLineAfterOption = false;
         h.Heading = "RAW Photo Extractor";
-        h.Copyright = "Copyright (c) 2024";
+        h.Copyright = "Copyright (c) 2025";
         return CommandLine.Text.HelpText.DefaultParsingErrorsHandler(result, h);
     }, e => e);
 
